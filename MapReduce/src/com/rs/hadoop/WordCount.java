@@ -1,4 +1,5 @@
 package com.rs.hadoop;
+
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.conf.*;
 import org.apache.hadoop.io.*;
